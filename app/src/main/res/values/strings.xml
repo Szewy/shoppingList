@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">shoppingList</string>
+
+    <string-array name="titles">
+        <item> Jajka </item>
+        <item> Mleko </item>
+        <item> Mąka </item>
+        <item> Cukier </item>
+        <item> Pieprz </item>
+        <item> Sól </item>
+        <item> Jabłka </item>
+        <item> Pomarańcze </item>
+        <item> Winogrono </item>
+        <item> Marchewka </item>
+        <item> Ziemniaki </item>
+        <item> Sok </item>
+        <item> Woda </item>
+        <item> Serwetki </item>
+        <item> Kubeczki </item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item> 3 jajka wiejskie </item>
+        <item> 2L mleka 2.0 %</item>
+        <item> 1kg mąki tortowej </item>
+        <item> 2kg cukru </item>
+        <item> 100g pieprzu niemielonego </item>
+        <item> 1kg soli himalajskiej </item>
+        <item> 2kg jabłek rodzaju ananas </item>
+        <item> 5kg pomarańczy sycylijskich </item>
+        <item> 1kg czernowych winogrono </item>
+        <item> 1kg marchewek </item>
+        <item> 10 młodych ziemniaków </item>
+        <item> 1L soku pomarańczowej Tymbark </item>
+        <item> 6x2L wody żywiec </item>
+        <item> Paczka serwetek </item>
+        <item> 10 plastikowych kubeczków </item>
+    </string-array>
+
+    <string-array name="images">
+        <item> jajka </item>
+        <item> mleko </item>
+        <item> maka </item>
+        <item> cukier </item>
+        <item> pieprz </item>
+        <item> sol </item>
+        <item> jablka </item>
+        <item> pomarancze </item>
+        <item> winogrono </item>
+        <item> marchewka </item>
+        <item> ziemniaki </item>
+        <item> sok </item>
+        <item> woda </item>
+        <item> serwetki </item>
+        <item> kubeczki </item>
+    </string-array>
+</resources>
